@@ -16,4 +16,4 @@ Administrator can edit application's attributes.
  - Calculate price for late customers.
  - Statistics.
  - Easy searching video for customers.
- - Easy Reservation system.
+ - Easy reservation system.
